@@ -1,0 +1,24 @@
+{
+  "dataJSON": [
+    {
+      "id": 1,
+      "fullname": "Abdul Malik Karim Abdullah",
+      "born": "1908",
+      "died": "1981",
+      "description": "Sarjana Islam dan penulis sekaligus tokoh Muhammadiyah.",
+      "establishment": "2011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Abdul_Malik_Karim_Amrullah%2C_Pekan_Buku_Indonesia_1954%2C_p217.jpg"
+    },
+    {
+      "values": {
+        "fullname": "Achmad Subarjo",
+        "born": 1896,
+        "died": 1978,
+        "description": "Aktivis kemerdekaan dan menteri pemerintahan",
+        "establishment": 2011,
+        "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Achmad_soebardjo.jpg"
+      },
+      "id": 2
+    }
+  ]
+}
