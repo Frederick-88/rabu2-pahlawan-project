@@ -1,0 +1,30 @@
+.div-bg{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(14, 14, 14);
+}
+.card-bg{
+    background-color: rgb(129, 9, 9);
+    width: 500px;
+}
+.img-card{
+    width: 500px;
+    height: 300px;
+}
+.input-fx{
+    width: 60%;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin: 8px;
+    font-weight: 700;
+}
+.button-fx{
+    font-size: 15px;
+    background-color: white;
+    font-weight: 700;
+    color: rgb(129, 9, 9);
+    padding: 10px 60px;
+    margin: 8px;
+}
