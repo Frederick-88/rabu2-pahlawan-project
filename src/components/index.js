@@ -1,6 +1,7 @@
 import React from "react";
 import { useFormik } from "formik";
 import axios from "axios";
+// import {Link, Router} from 'react-router-dom'
 import { Card } from "react-bootstrap";
 import "./index.css";
 
@@ -101,10 +102,12 @@ const FormPahlawan = () => {
             <button className="button-fx" type="submit">
               Submit
             </button>
-            
+
+            {/* <Router>
             <Link to="/dashboard">
-              <button type="button">Click Me!</button>
+              <button type="button">See National Heroes List</button>
             </Link>
+            </Router> */}
 
           </form>
         </Card.Body>
